@@ -807,7 +807,7 @@ GRLIB_arsenal_magazines = [
     "rhsusf_m112x4_mag",
     "rhsusf_mine_m14_mag",
     "SatchelCharge_Remote_Mag",
-
+    Proof
     // Misc
     "Laserbatteries"
 ];
