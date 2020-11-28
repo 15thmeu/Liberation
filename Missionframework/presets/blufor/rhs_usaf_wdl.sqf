@@ -18,11 +18,11 @@ FOB_box_typename = "B_Slingload_01_Cargo_F";                            // This 
 FOB_truck_typename = "rhsusf_M1078A1P2_B_WD_CP_fmtv_usarmy";            // This is the FOB as a vehicle.
 Arsenal_typename = "B_supplyCrate_F";                                   // This is the virtual arsenal as portable supply crates.
 Respawn_truck_typename = "rhsusf_M1085A1P2_B_WD_Medical_fmtv_usarmy";   // This is the mobile respawn (and medical) truck.
-huron_typename = "rhsusf_CH53E_USMC";                             // This is Spartan 01, a multipurpose mobile respawn as a helicopter.
+huron_typename = "rhsusf_CH53E_USMC";                                   // This is Warhorse 3-1, a multipurpose mobile respawn as a helicopter.
 crewman_classname = "rhsusf_usmc_marpat_wd_combatcrewman";              // This defines the crew for vehicles.
 pilot_classname = "rhsusf_usmc_marpat_wd_helipilot";                    // This defines the pilot for helicopters.
 KP_liberation_little_bird_classname = "RHS_UH1Y_UNARMED";               // These are the little birds which spawn on the Freedom or at Chimera base.
-KP_liberation_boat_classname = "B_Boat_Transport_01_F";                 // These are the boats which spawn at the stern of the Freedom.
+KP_liberation_boat_classname = "UK3CB_TKA_B_RHIB";                      // These are the boats which spawn at the stern of the Freedom.
 KP_liberation_truck_classname = "rhsusf_M977A4_BKIT_usarmy_wd";         // These are the trucks which are used in the logistic convoy system.
 KP_liberation_small_storage_building = "ContainmentArea_02_forest_F";   // A small storage area for resources.
 KP_liberation_large_storage_building = "ContainmentArea_01_forest_F";   // A large storage area for resources.
@@ -106,8 +106,8 @@ light_vehicles = [
     ["rhsusf_M977A4_BKIT_usarmy_wd",125,0,75],                          // M977A4 BKIT
     ["rhsusf_M977A4_BKIT_M2_usarmy_wd",125,40,75],                      // M977A4 BKIT (HMG)
     ["rhsusf_M1117_W",150,50,50],                                       // M1117 ASV
-    ["B_Boat_Transport_01_F",100,0,25],                                 // Assault Boat
-    ["B_Boat_Armed_01_minigun_F",200,80,75],                            // Speedboat Minigun
+    ["UK3CB_TKA_B_RHIB",100,0,25],                                      // RHIB (M2)
+    ["UK3CB_TKA_B_RHIB_Gunboat",200,80,75],                             // RHIB Gunboat (M2/MK19)
     ["rhsusf_mkvsoc",250,200,100],                                      // Mk.V SOCOM
     ["B_SDV_01_F",150,0,50]                                             // SDV
 ];
@@ -229,7 +229,7 @@ buildings = [
 ];
 
 support_vehicles = [
-    [Arsenal_typename,100,200,0],
+    [Arsenal_typename,0,0,0],
     [Respawn_truck_typename,200,0,100],
     [FOB_box_typename,300,500,0],
     [FOB_truck_typename,300,500,75],

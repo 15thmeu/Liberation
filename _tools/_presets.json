@@ -7,9 +7,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -20,9 +20,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -33,9 +33,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -47,9 +47,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -60,9 +60,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -74,9 +74,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 6,
-            "KP_liberation_preset_opfor": 19,
+            "KP_liberation_preset_opfor": 22,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     },
@@ -87,9 +87,9 @@
         "configFile": "kp_liberation_config.sqf",
         "variables": {
             "KP_liberation_preset_blufor": 7,
-            "KP_liberation_preset_opfor": 20,
+            "KP_liberation_preset_opfor": 23,
             "KP_liberation_preset_resistance": 2,
-            "KP_liberation_preset_civilians": 0,
+            "KP_liberation_preset_civilians": 1,
             "KP_liberation_arsenal": 1
         }
     }

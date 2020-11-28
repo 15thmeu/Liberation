@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). Legacy releases used an incrementing `R#` version scheme. Releases based on KP-Liberation v0.96.7a and greater adhere to [Semantic Versioning](https://semver.org/spec/v2.0.0.html) and begin at v1.1.0 (as legacy releases would be v1.0).
 
+## [Unreleased]
+
+### Added
+
+- Upstream changes in KP-Liberation [v0.96.7](https://github.com/KillahPotatoes/KP-Liberation/releases/tag/v0.96.7) and [v0.96.7a](https://github.com/KillahPotatoes/KP-Liberation/releases/tag/v0.96.7a).
+
 ## [r10] - 2020-11-27
 
 ### Added
@@ -65,6 +71,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 - Arsenal crates and supply crate at starting bases have been removed with the arsenal changes.
 
-[Unreleased]: https://github.com/15thmeu/Liberation/compare/r9...HEAD
 [r9]: https://github.com/15thmeu/Liberation/compare/v0.96.6...r9
 [r10]: https://github.com/15thmeu/Liberation/compare/r9...r10
+[Unreleased]: https://github.com/15thmeu/Liberation/compare/r10...HEAD
