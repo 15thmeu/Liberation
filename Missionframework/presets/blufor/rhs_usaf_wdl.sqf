@@ -3,8 +3,7 @@
     - RHS USAF
 
     Optional Mods:
-    - F-15C
-    - F/A-18
+    - AV-8B
 */
 
 /*
@@ -24,7 +23,7 @@ pilot_classname = "rhsusf_usmc_marpat_wd_helipilot";                    // This 
 KP_liberation_little_bird_classname = "RHS_UH1Y";      		            // These are the little birds which spawn on the Freedom or at Chimera base.
 KP_liberation_big_bird_classname = "rhsusf_CH53E_USMC";      		    // This is the transport helicopter which spawns on the Freedom or at Chimera base.
 KP_liberation_boat_classname = "UK3CB_TKA_B_RHIB_Gunboat";              // These are the boats which spawn at the stern of the Freedom.
-KP_liberation_plane_classname = "JS_JC_FA18E";                          // These are the fixed wing planes that spawns on the Freedom.
+KP_liberation_plane_classname = "FIR_AV8B";                             // These are the fixed wing planes that spawns on the Freedom.
 KP_liberation_truck_classname = "rhsusf_M977A4_BKIT_usarmy_wd";         // These are the trucks which are used in the logistic convoy system.
 KP_liberation_small_storage_building = "ContainmentArea_02_forest_F";   // A small storage area for resources.
 KP_liberation_large_storage_building = "ContainmentArea_01_forest_F";   // A large storage area for resources.
@@ -140,8 +139,7 @@ air_vehicles = [
     ["rhsusf_CH53E_USMC_GAU21",300,100,200],                             // CH-53E Super Stallion (GAU-21)
 	["B_T_VTOL_01_infantry_F",400,0,200],                                // V-44X Blackfish (Infantry Transport)
 	["B_T_VTOL_01_vehicle_F",400,0,200],                                 // V-44X Blackfish (Vehicle Transport)
-	["JS_JC_FA18E",1000,1000,500],                                       // F/A-18E Super Hornet (single seat)
-	["JS_JC_FA18F",1000,1000,500],                                       // F/A-18F Super Hornet (dual seat)
+    ["FIR_AV8B",1000,1000,500],                                          // AV-8B Harrier Plus
     ["DEGA_V22_Infantry_B_NATO",400,0,200],                              // V-22 Osprey (Transport)
     ["DEGA_V22_IDWS_B_NATO",400,100,200]                                 // V-22 Osprey (Armed Transport)
 ];
@@ -370,7 +368,5 @@ elite_vehicles = [
     "RHS_AH64D",                                                        // AH-64D (Multi-Role)
     "RHS_M6",                                                           // M6
 	"RHS_UH60M_ESSS",													// UH-60M ESSS
-	"RHS_M2A3_BUSKIII",										    		// M2A3 BUSK III
-	"JS_JC_FA18E",                                           		    // F/A-18E Super Hornet
-	"JS_JC_FA18F"                                           	        // F/A-18F Super Hornet
+	"RHS_M2A3_BUSKIII"									    		    // M2A3 BUSK III
 ];

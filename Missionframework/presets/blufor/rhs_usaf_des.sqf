@@ -3,8 +3,8 @@
     - RHS USAF
 
     Optional Mods:
-    - F-15C
-    - F/A-18
+    - AV-8B
+
 */
 
 /*
@@ -142,8 +142,7 @@ air_vehicles = [
     ["rhsusf_CH53E_USMC_GAU21_D",300,100,175],                           // CH-53E Super Stallion (GAU-21)
     ["B_T_VTOL_01_infantry_F",400,0,200],                                // V-44X Blackfish (Infantry Transport)
     ["B_T_VTOL_01_vehicle_F",400,0,200],                                 // V-44X Blackfish (Vehicle Transport)
-	["JS_JC_FA18E",1000,1000,500],                                       // F/A-18E Super Hornet (single seat)
-	["JS_JC_FA18F",1000,1000,500],                                       // F/A-18F Super Hornet (dual seat)
+    ["FIR_AV8B",1000,1000,500],                                          // AV-8B Harrier Plus  
     ["DEGA_V22_Infantry_B_NATO",400,0,200],                              // V-22 Osprey (Transport)
     ["DEGA_V22_IDWS_B_NATO",400,100,200]                                 // V-22 Osprey (Armed Transport)
 ];
@@ -372,7 +371,5 @@ elite_vehicles = [
     "RHS_AH64D",                                                        // AH-64D (Multi-Role)
     "RHS_M6",                                                           // M6
 	"RHS_UH60M_ESSS",													// UH-60M ESSS
-	"RHS_M2A3_BUSKIII",										    		// M2A3 BUSK III
-	"JS_JC_FA18E",                                           		    // F/A-18E Super Hornet
-	"JS_JC_FA18F"                                           	        // F/A-18F Super Hornet
+	"RHS_M2A3_BUSKIII"								    		        // M2A3 BUSK III
 ];
