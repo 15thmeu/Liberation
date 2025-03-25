@@ -140,8 +140,8 @@ air_vehicles = [
 	["B_T_VTOL_01_infantry_F",400,0,200],                                // V-44X Blackfish (Infantry Transport)
 	["B_T_VTOL_01_vehicle_F",400,0,200],                                 // V-44X Blackfish (Vehicle Transport)
     ["FIR_AV8B",1000,1000,500],                                          // AV-8B Harrier Plus
-    ["DEGA_V22_Infantry_B_NATO",400,0,200],                              // V-22 Osprey (Transport)
-    ["DEGA_V22_IDWS_B_NATO",400,100,200]                                 // V-22 Osprey (Armed Transport)
+    ["UK3CB_B_Osprey_USMC_D",400,0,200],                                 // MV-22 Osprey (Transport)
+    ["UK3CB_B_Osprey_IDWS_USMC_D",400,100,200]                           // MV-22 Osprey (Armed Transport)
 ];
 
 static_vehicles = [
